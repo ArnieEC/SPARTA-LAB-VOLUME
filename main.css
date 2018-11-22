@@ -1,0 +1,118 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  display: grid;
+  display: inline-grid;
+  grid-gap: 0px;
+}
+
+
+.carousel-inner {
+  display: flex;
+  align-items: stretch;
+ 
+}
+
+.img {
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+}
+
+.grid-item {
+  border: 2px solid black;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.volume {
+  padding-top: 35px; 
+  padding-left:20px; 
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.navbar-right {
+  padding-top: 25px; 
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.side-img {
+  width:315px;
+  height: 180px;
+  padding-top: 50px;
+  padding-left: 30px;
+}
+
+.who-we-are {
+  border: 2px solid black;
+}
+
+.form-long {
+  width: 605.41px;
+  height: 60px;
+  border-style: none;
+  border-bottom: 1px solid black;
+}
+
+.form-short {
+  width: 287.7px;
+  height: 60px;
+  border-style: none;
+  border-bottom: 1px solid black;
+  
+}
+
+.form-short-2 {
+  width: 287.7px;
+  height: 60px;
+  margin-left: 25px;
+  border-style: none;
+  border-bottom: 1px solid black;
+}
+.SendMessageButton {
+  position:static;
+  top: 50%;
+  padding: 15px;
+}
+
+.sendmessage {
+  text-align: center;
+  padding-right: 100px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.nav {
+  position:sticky;
+}
+
+.glyphicon-envelope {
+  font-size: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 70px
+}
+
+.grid-item {
+  height: 235px;
+  width: 211.8px;
+}
+
+.servandgridpad {
+  padding-top: 40px;
+
+}
+
+.main-form {
+  padding-top: 40px;
+}
+ .cimg {
+   height: 200px;
+   width: 250px;
+ }
